@@ -4,4 +4,6 @@ NeoHamzah (Amirul Hamzah) resolution in 2023:
 - Get a good grade in college
 - Mastering HTML, CSS, and Javascript
 - Mastering Bootstrap and Tailwind CSS
-- Focusing on Front End Development
+- Focusing on Front-End Development
+- Trying to learn Back-End Development
+- Trying Laravel, and other Back-End Framework
